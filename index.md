@@ -4,17 +4,25 @@ Associate Researcher<br />
 School of Computer Science and Technology<br />
 Shandong University<br />
 Email: zhengyw@sdu.edu.cn<br />
+Wechat: ivyzheng777<br />
 
-You can use the [editor on GitHub](https://github.com/IvyZheng/ivyzheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Biography
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="/ivy_small.jpg" width="100%">
+    </td>
+    <td>
+        Dr. Yanwei Zheng is currently an Associate Researcher in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br /><br />
+        Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong
+University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br /><br />
+        His research interests span computer vision, object navigation, and digital twins. <br/><br/>
+        I'm looking for self-motivated master students. 
+    </td>
+  </tr>
+</table>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
