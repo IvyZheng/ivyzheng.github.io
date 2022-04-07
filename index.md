@@ -34,6 +34,8 @@ sd01331270, Compiler principles and technologies<br/>
 1. Numbered
 2. List
 
+<b>bold</b>
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
