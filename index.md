@@ -18,7 +18,7 @@ Wechat: ivyzheng777<br />
         Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong
 University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br /><br />
         His research interests span computer vision, object navigation, and digital twins. <br/><br/>
-        I'm looking for self-motivated master students. 
+      <b>**I am looking for self-motivated master students to collaborate on academic projects.**</b>
     </td>
   </tr>
 </table>
