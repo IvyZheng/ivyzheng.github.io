@@ -35,6 +35,7 @@ sd01331270, Compiler principles and technologies<br/>
 <b>Yanwei Zheng</b>, Zengrui Zhao, Xiaowei Yu, Dongxiao Yu<br/>
 Computational Intelligence and Neuroscience, 2022.4<br/>
 <a href = "CIN-Template-2022.pdf">CIN-Template-2022.pdf</a><br/>
+Code is available at <a href = "https://github.com/template-aware/TAT">https://github.com/template-aware/TAT</a><br/>.
 
 <br/>
 <b>Fault-Tolerant Consensus in Wireless Blockchain System</b><br/>
