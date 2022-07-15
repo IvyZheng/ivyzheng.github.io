@@ -1,6 +1,6 @@
 # Yanwei Zheng
 
-Associate Researcher<br />
+Associate Professor<br />
 School of Computer Science and Technology<br />
 Shandong University<br />
 Email: zhengyw@sdu.edu.cn<br />
@@ -17,7 +17,7 @@ Wechat: ivyzheng777<br />
         Dr. Yanwei Zheng is currently an Associate Professor in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br /><br />
         Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong
 University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br /><br />
-        His research interests span computer vision, object navigation, and digital twins. <br/><br/>
+        His research interests span computer vision, visual navigation, and digital twins. <br/><br/>
       <b>**I am looking for self-motivated master students to collaborate on academic projects.**</b>
     </td>
   </tr>
