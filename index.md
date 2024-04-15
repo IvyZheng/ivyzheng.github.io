@@ -32,15 +32,39 @@ sd01331270, Compiler principles and technologies<br/>
 ## Selected Publications
 
 <b>Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b><br/>
-Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, Tian Lan<br/>
+Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Tian Lan<br/>
 Tsinghua Science and Technology, 2023, 28(6): 1009-1022<br/>
-<a href = "2023-Corr-OptimizedConsensus.pdf">TST-2023.pdf</a><br/>
+<a href = "2023-Corr-OptimizedConsensus.pdf">TST-Optimized-2023.pdf</a><br/>
 
 <br/>
-<b>Template-Aware Transformer for Person Re-Identification</b><br/>
-<b>Yanwei Zheng</b>, Zengrui Zhao, Xiaowei Yu, Dongxiao Yu<br/>
-Computational Intelligence and Neuroscience, 2022.4<br/>
-<a href = "CIN-Template-2022.pdf">CIN-Template-2022.pdf</a><br/>
+<b>Finer-Grained Engagement in Hypergraphs</b><br/>
+Qi Luo, Dongxiao Yu, Yu Liu, <b>Yanwei Zheng*</b>, Xiuzhen Cheng, and Xuemin Lin<br/>
+International Conference on Data Engineering (ICDE), 2023<br/>
+<a href = "ICED2023-FGE.pdf">ICDE-Finer-2023.pdf</a><br/>
+
+<br/>
+<b>Robust Decentralized Stochastic Gradient Descent over Unstable Networks</b><br/>
+<b>Yanwei Zheng</b>, Liangxu Zhang, Shuzhen Chen, Xiao Zhang, Zhipeng Cai, and Xiuzhen Cheng<br/>
+Computer Communications, 2023, 203(4): 163-179.<br/>
+<a href = "2023-1-RDSGD.pdf">ComCom-Robust-2023.pdf</a><br/>
+
+<br/>
+<b>Multi-agent reinforcement learning enabled link scheduling for next generation Internet of Things</b><br/>
+Yifei Zou, Haofei Yin, <b>Yanwei Zheng*</b>, Falko Dressler<br/>
+Computer Communications, 2023, 205(5): 35-44.<br/>
+<a href = "2023-Corr-Multi-agentRL.pdf">ComCom-Multi-2023.pdf</a><br/>
+
+<br/>
+<b>WFLTree: A Spanning Tree Construction for Federated Learning in Wireless Networks</b><br/>
+Shuo Li, <b>Yanwei Zheng*</b>, and Yifei Zou<br/>
+Journal of Circuits, Systems, and Computers, 2023, 32(13): 1-15.<br/>
+<a href = "JCSC-2023-WFLTree.pdf">JCSC-WFLTree-2023.pdf</a><br/>
+
+<br/>
+<b>A Truss-Based Framework for Graph Similarity Computation</b><br/>
+<b>Yanwei Zheng</b>, Zichun Zhang, Qi Luo, Zhenzhen Xie, Dongxiao Yu<br/>
+Journal of Database Management, 2023, 34(1): 1-18.<br/>
+<a href = "2023-1-A-TBFramework.pdf">DM-A-2023.pdf</a><br/>
 
 <br/>
 <b>Template-Aware Transformer for Person Re-Identification</b><br/>
