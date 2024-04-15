@@ -31,11 +31,23 @@ sd01331270, Compiler principles and technologies<br/>
 
 ## Selected Publications
 
+<b>Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b><br/>
+Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, Tian Lan<br/>
+Tsinghua Science and Technology, 2023, 28(6): 1009-1022<br/>
+<a href = "2023-Corr-OptimizedConsensus.pdf">TST-2023.pdf</a><br/>
+
+<br/>
 <b>Template-Aware Transformer for Person Re-Identification</b><br/>
 <b>Yanwei Zheng</b>, Zengrui Zhao, Xiaowei Yu, Dongxiao Yu<br/>
 Computational Intelligence and Neuroscience, 2022.4<br/>
 <a href = "CIN-Template-2022.pdf">CIN-Template-2022.pdf</a><br/>
-Code is available at <a href = "https://github.com/template-aware/TAT">https://github.com/template-aware/TAT</a><br/>.
+
+<br/>
+<b>Template-Aware Transformer for Person Re-Identification</b><br/>
+<b>Yanwei Zheng</b>, Zengrui Zhao, Xiaowei Yu, Dongxiao Yu<br/>
+Computational Intelligence and Neuroscience, 2022.4<br/>
+<a href = "CIN-Template-2022.pdf">CIN-Template-2022.pdf</a><br/>
+Code is available at <a href = "https://github.com/template-aware/TAT">https://github.com/template-aware/TAT</a><br/>
 
 <br/>
 <b>Fault-Tolerant Consensus in Wireless Blockchain System</b><br/>
