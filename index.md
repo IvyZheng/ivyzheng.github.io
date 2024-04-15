@@ -40,7 +40,7 @@ Tsinghua Science and Technology, 2023, 28(6): 1009-1022<br/>
 <b>Finer-Grained Engagement in Hypergraphs</b><br/>
 Qi Luo, Dongxiao Yu, Yu Liu, <b>Yanwei Zheng*</b>, Xiuzhen Cheng, and Xuemin Lin<br/>
 International Conference on Data Engineering (ICDE), 2023<br/>
-<a href = "ICED2023-FGE.pdf">ICDE-Finer-2023.pdf</a><br/>
+<a href = "ICDE2023-FGE.pdf">ICDE-Finer-2023.pdf</a><br/>
 
 <br/>
 <b>Robust Decentralized Stochastic Gradient Descent over Unstable Networks</b><br/>
