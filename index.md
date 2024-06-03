@@ -122,8 +122,8 @@ IEEE Access, 2018.6<br/>
 （硕）张振宇，实习：北京三快在线科技有限公司（美团），就业：北京三快在线科技有限公司（美团）<br />
 （硕）赵新鹏，实习：Intel，升学：山东大学（硕转博）<br />
 （硕）何康泽，升学：山东大学（硕转博）<br />
-（本）郭心愉，Northwestern University（Master）和University of Arizona（fully funded PhD）<br />
-（本）凌扬：Western University（Master）<br />
+（本）郭心愉，升学：Northwestern University（Master）和University of Arizona（fully funded PhD）<br />
+（本）凌扬：升学：Western University（Master）<br />
 
 【2023】<br />
 （硕）梁会，公安部第三研究所<br />
