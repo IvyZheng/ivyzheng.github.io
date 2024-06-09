@@ -103,7 +103,7 @@ IEEE Internet of Things Journal, 2020.7<br/>
 IEEE Access, 2018.6<br/>
 <a href = "Access-Learning-2018.pdf">Access-Learning-2018.pdf</a><br/>
 
-## 实习与就业
+## 学生去向
 
 【2024实习】<br />
 （硕）娄云飞，实习：小米科技有限公司<br />
