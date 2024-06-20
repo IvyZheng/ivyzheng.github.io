@@ -1,8 +1,8 @@
-# Yanwei Zheng
+# 郑艳伟（Yanwei Zheng）
 
-Associate Professor<br />
-School of Computer Science and Technology<br />
-Shandong University<br />
+副教授（Associate Professor）<br />
+计算机科学与技术学院（School of Computer Science and Technology）<br />
+山东大学（Shandong University）<br />
 Email: zhengyw@sdu.edu.cn<br />
 Wechat: ivyzheng777<br />
 
@@ -14,22 +14,24 @@ Wechat: ivyzheng777<br />
       <img src="/ivy_small.jpg" width="100%">
     </td>
     <td>
+      2019年在北京航空航天大学获得博士学位，现为山东大学计算机学院智能计算研究所副教授。主要研究领域包括计算视觉和视觉目标导航<br /><br />
+      
         Dr. Yanwei Zheng is currently an Associate Professor in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br /><br />
         Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong
 University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br /><br />
-        His research interests span computer vision, visual navigation, and digital twins. <br/><br/>
+        His research interests span computer vision, visual object navigation, and digital twins. <br/><br/>
       <b>**I am looking for self-motivated master students to collaborate on academic projects.**</b>
     </td>
   </tr>
 </table>
 
 
-## Teaching
+## 教学（Teaching）
 
-sd03420070, Compiler principles and technologies<br/>
-sd01331270, Compiler principles and technologies<br/>
+sd03420070, 编译原理与技术（Compiler principles and technologies）<br/>
+sd01331270, 编译原理与技术（Compiler principles and technologies）<br/>
 
-## Selected Publications
+## 部分论文（Selected Publications）
 
 <b>Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b><br/>
 Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Tian Lan<br/>
