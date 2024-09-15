@@ -107,16 +107,24 @@ IEEE Access, 2018.6<br/>
 
 <table border="1" cellspacing="0" cellpadding="0">
   <tr>
-    <td rowspan="2"><b>姓名</b></td>
-    <td rowspan="2"><b>类别</b></td>
-    <td colspan="2"><b>实习</b></td>
-    <td colspan="2"><b>就业</b></td>
+    <td rowspan="2" align="center"><b>姓名</b></td>
+    <td rowspan="2" align="center"><b>类别</b></td>
+    <td colspan="2" align="center"><b>实习</b></td>
+    <td colspan="2" align="center"><b>就业/升学</b></td>
   </tr>
   <tr>
-    <td><b>年份</b></td>
-    <td><b>单位</b></td>
-    <td><b>年份</b></td>
-    <td><b>单位</b></td>
+    <td align="center"><b>年份</b></td>
+    <td align="center"><b>单位</b></td>
+    <td align="center"><b>年份</b></td>
+    <td align="center"><b>单位</b></td>
+  </tr>
+  <tr>
+    <td>李昌瑞</td>
+    <td>学硕</td>
+    <td>2024</td>
+    <td>腾讯科技有限公司（北京）</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>娄云飞</td>
@@ -125,47 +133,263 @@ IEEE Access, 2018.6<br/>
     <td>小米科技有限公司</td>
     <td>-</td>
     <td>-</td>
+  </tr>  
+  <tr>
+    <td>王旭龙</td>
+    <td>专硕</td>
+    <td>2024</td>
+    <td>腾讯科技有限公司（北京）</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
-<\table>
-【2024实习】<br />
-（硕）娄云飞，实习：小米科技有限公司<br />
-（硕）李昌瑞，实习：腾讯科技有限公司（北京）<br />
-（硕）王旭龙，实习：腾讯科技有限公司（北京）<br />
-（硕）魏子惠，实习：北京三快在线科技有限公司（美团）<br />
-（硕）孙星宇，实习：微软中国（苏州）<br />
-（硕）贾帅康，实习：杭州海康威视数字技术股份有限公司 <br />
+  <tr>
+    <td>魏子惠</td>
+    <td>专硕</td>
+    <td>2024</td>
+    <td>北京三快在线科技有限公司（美团）</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>孙星宇</td>
+    <td>专硕</td>
+    <td>2024</td>
+    <td>微软中国（苏州）</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>贾帅康</td>
+    <td>专硕</td>
+    <td>2024</td>
+    <td>杭州海康威视数字技术股份有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <hr>
+  <tr>
+    <td>李亚玲</td>
+    <td>学硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2024</td>
+    <td>北京小米科技有限责任公司</td>
+  </tr>
+  <tr>
+    <td>程甜</td>
+    <td>专硕</td>
+    <td>2023</td>
+    <td>北京百度网讯科技有限公司</td>
+    <td>2024</td>
+    <td>光大银行（青岛异地研发中心）</td>
+  </tr>
+  <tr>
+    <td>范伟顺</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2024</td>
+    <td>光大银行（青岛异地研发中心）</td>
+  </tr>
+  <tr>
+    <td>高杨</td>
+    <td>专硕</td>
+    <td>2023</td>
+    <td>北京百度网讯科技有限公司</td>
+    <td>2024</td>
+    <td>青岛银行总行</td>
+  </tr>
+  <tr>
+    <td>白宇</td>
+    <td>专硕</td>
+    <td>2023</td>
+    <td>京东科技控股股份有限公司</td>
+    <td>2024</td>
+    <td>中国邮政储蓄银行</td>
+  </tr>
+  <tr>
+    <td>孙浩斐</td>
+    <td>专硕</td>
+    <td>2023</td>
+    <td>北京百度网讯科技有限公司</td>
+    <td>2024</td>
+    <td>华为科技有限公司（北京）</td>
+  </tr>
+  <tr>
+    <td>张振宇</td>
+    <td>专硕</td>
+    <td>2023</td>
+    <td>北京三快在线科技有限公司（美团）</td>
+    <td>2024</td>
+    <td>北京三快在线科技有限公司（美团）</td>
+  </tr>
+  <tr>
+    <td>赵新鹏</td>
+    <td>专硕</td>
+    <td>2023</td>
+    <td>Intel</td>
+    <td>2024</td>
+    <td>山东大学（硕转博）</td>
+  </tr>
+  <tr>
+    <td>何康泽</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2024</td>
+    <td>山东大学（硕转博）</td>
+  </tr>
+  <tr>
+    <td>郭心愉</td>
+    <td>本科</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2024</td>
+    <td>University of Arizona(fully funded PhD)</td>
+  </tr>
+  <tr>
+    <td>凌扬</td>
+    <td>本科</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2024</td>
+    <td>Western University(Master)</td>
+  </tr>
+  <tr>
+    <td>傅建</td>
+    <td>学硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>哈尔滨工业大学（读博）</td>
+  </tr>
+  <tr>
+    <td>梁会</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>公安部第三研究所</td>
+  </tr>
+  <tr>
+    <td>李震</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>华为技术有限公司（北京）</td>
+  </tr>
+  <tr>
+    <td>何国海</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>华为技术有限公司（上海）</td>
+  </tr>
+  <tr>
+    <td>刘鹏</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>齐鲁空天信息研究院</td>
+  </tr>
+  <tr>
+    <td>仲思悦</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>战略支援部队直招军官</td>
+  </tr>
+  <tr>
+    <td>陈锋</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>山东大学（读博）</td>
+  </tr>
+  <tr>
+    <td>黄博文</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>山东大学（硕转博）</td>
+  </tr>
+  <tr>
+    <td>周进</td>
+    <td>本科</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2023</td>
+    <td>Notre Dame University(PhD)</td>
+  </tr>
+  <tr>
+    <td>赵增瑞</td>
+    <td>学硕</td>
+    <td></td>
+    <td></td>
+    <td>2024</td>
+    <td>日本电气通信大学（读博）</td>
+  </tr>
+  <tr>
+    <td>江文</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2022</td>
+    <td>公安部第三研究所</td>
+  </tr>
+  <tr>
+    <td>田可</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2022</td>
+    <td>中国重型汽车集团有限公司</td>
+  </tr>
+  <tr>
+    <td>薛宇涵</td>
+    <td>本科</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2022</td>
+    <td>北京航空航天大学（读硕）</td>
+  </tr>
+  <tr>
+    <td>杨晓强</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2021</td>
+    <td>国网山东省电力公司潍坊供电公司</td>
+  </tr>
+  <tr>
+    <td>吴昊</td>
+    <td>本科</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2021</td>
+    <td>成都电子科技大学（读硕）</td>
+  </tr>
+  <tr>
+    <td>赵楚洋</td>
+    <td>本科</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2021</td>
+    <td>北京航空航天大学（读硕）</td>
+  </tr>
+  <tr>
+    <td>黄博文</td>
+    <td>本科</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2021</td>
+    <td>山东大学（读硕）</td>
+  </tr>
+</table>
 
-【2024】<br />
-（硕）程甜，实习：北京百度网讯科技有限公司，就业：光大银行（青岛异地研发中心）<br />
-（硕）李亚玲，就业：北京小米科技有限责任公司<br />
-（硕）范伟顺，就业：光大银行（青岛异地研发中心）<br />
-（硕）高杨，实习：北京百度网讯科技有限公司，就业：青岛银行总行<br />
-（硕）白宇，实习：京东，就业：中国邮政储蓄银行<br />
-（硕）孙浩斐，实习：北京百度网讯科技有限公司，就业：华为科技有限公司（北京）<br />
-（硕）张振宇，实习：北京三快在线科技有限公司（美团），就业：北京三快在线科技有限公司（美团）<br />
-（硕）赵新鹏，实习：Intel，升学：山东大学（硕转博）<br />
-（硕）何康泽，升学：山东大学（硕转博）<br />
-（本）郭心愉，升学：Northwestern University（Master）和University of Arizona（fully funded PhD）<br />
-（本）凌扬：升学：Western University（Master）<br />
-
-【2023】<br />
-（硕）梁会，公安部第三研究所<br />
-（硕）李震，华为技术有限公司（北京）<br />
-（硕）何国海，华为技术有限公司（上海）<br />
-（硕）刘鹏，齐鲁空天信息研究院<br />
-（硕）仲思悦，战略支援部队直招军官<br />
-（硕）陈锋，山东大学（读博）<br />
-（硕）黄博文，山东大学（硕转博）<br />
-（硕）傅建， 哈尔滨工业大学（读博）<br />
-（本）周进，美国Notre Dame University（PhD)<br />
-
-【2022】<br />
-（硕）赵增瑞，拿到德国帕德博恩大学博士offer，但签证被拒，回实验室做9个月科研助理后，到日本电气通信大学读博<br />
-（硕）江文，公安部第三研究所<br />
-（硕）田可，中国重型汽车集团有限公司<br />
-
-【2021】<br />
-（硕）杨晓强，国网山东省电力公司潍坊供电公司<br />
-（本）吴昊，成都电子科技大学（读硕）<br />
-（本）赵楚洋，北京航空航天大学（读硕）<br />
-（本）黄博文，山东大学 （读硕）<br />
