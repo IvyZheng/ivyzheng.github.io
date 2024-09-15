@@ -330,8 +330,8 @@ IEEE Access, 2018.6<br/>
   <tr>
     <td>赵增瑞</td>
     <td>学硕</td>
-    <td></td>
-    <td></td>
+    <td>2023</td>
+    <td>山东大学</td>
     <td>2024</td>
     <td>日本电气通信大学（读博）</td>
   </tr>
