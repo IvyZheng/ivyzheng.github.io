@@ -105,6 +105,28 @@ IEEE Access, 2018.6<br/>
 
 ## 学生去向
 
+<table border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <td rowspan="2"><b>姓名</b></td>
+    <td rowspan="2"><b>类别</b></td>
+    <td colspan="2"><b>实习</b></td>
+    <td colspan="2"><b>就业</b></td>
+  </tr>
+  <tr>
+    <td><b>年份</b></td>
+    <td><b>单位</b></td>
+    <td><b>年份</b></td>
+    <td><b>单位</b></td>
+  </tr>
+  <tr>
+    <td>娄云飞</td>
+    <td>专硕</td>
+    <td>2024</td>
+    <td>小米科技有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+<\table>
 【2024实习】<br />
 （硕）娄云飞，实习：小米科技有限公司<br />
 （硕）李昌瑞，实习：腾讯科技有限公司（北京）<br />
