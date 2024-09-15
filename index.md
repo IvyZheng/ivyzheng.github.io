@@ -6,7 +6,7 @@
 Email: zhengyw@sdu.edu.cn<br />
 Wechat: ivyzheng777<br />
 
-## Biography
+## 简历（Biography）
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -17,12 +17,15 @@ Wechat: ivyzheng777<br />
        2019年在北京航空航天大学获得博士学位，主要研究领域包括计算视觉和视觉目标导航。<br /><br />      
        Dr. Yanwei Zheng is currently an Associate Professor in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br /><br />
         Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br /><br />
-        His research interests span computer vision, visual object navigation, and digital twins. <br/><br/>
+        His research interests span computer vision and visual object navigation. <br/><br/>
       <b>**I am looking for self-motivated master students to collaborate on academic projects.**</b>
     </td>
   </tr>
 </table>
 
+&hearts; 视觉目标导航是一个具身智能任务，指在一个未知场景中，通过自然语言或图像给出一个已见或未见目标，使智能体仅仅通过自身携带的单目摄像机的第一人称视觉信息，快速找到给定的目标；其中未知场景和未见目标分别指训练集中未出现的场景和目标。
+
+&hearts; 计算机视觉研究主要集中在落地应用方面，包括但不限于：（1）城市场景各类感兴趣目标的检测、分类等；（2）工业场景的设备、人员、环境监测和识别，以及工业产线瑕疵监测等；（3）文档处理场景的内容识别、伪造识别等；（4）单模态、跨模态数据的检索、生成等。
 
 ## 教学（Teaching）
 
