@@ -111,8 +111,8 @@ IEEE Access, 2018.6<br/>
 <table border="1" cellspacing="0" cellpadding="0" width="95%">
   <tr>
     <td rowspan="2" align="center" width="100px"><b>姓名</b></td>
-    <td rowspan="2" align="center" width="100px"><b>类别</b></td>
-    <td colspan="2" align="center" width="200px"><b>实习</b></td>
+    <td rowspan="2" align="center" width="80px"><b>类别</b></td>
+    <td colspan="2" align="center" width="40%"><b>实习</b></td>
     <td colspan="2" align="center"><b>就业/升学</b></td>
   </tr>
   <tr>
