@@ -14,10 +14,10 @@ Wechat: ivyzheng777<br />
       <img src="/ivy_small.jpg" width="100%">
     </td>
     <td>
-       2019年在北京航空航天大学获得博士学位，主要研究领域包括计算视觉和视觉目标导航。<br /><br />      
-       Dr. Yanwei Zheng is currently an Associate Professor in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br /><br />
-        Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br /><br />
-        His research interests span computer vision and visual object navigation. <br/><br/>
+       2019年在北京航空航天大学获得博士学位，主要研究领域包括计算视觉和视觉目标导航。<br />      
+       Dr. Yanwei Zheng is currently an Associate Professor in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br />
+        Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br />
+        His research interests span computer vision and visual object navigation. <br/>
       <b>**I am looking for self-motivated master students to collaborate on academic projects.**</b>
     </td>
   </tr>
