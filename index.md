@@ -29,8 +29,8 @@ Wechat: ivyzheng777<br />
 
 ## 教学（Teaching）
 
-sd03420070, 编译原理与技术（Compiler principles and technologies）<br/>
-sd01331270, 编译原理与技术（Compiler principles and technologies）<br/>
+sd01336150, 编译原理与技术，学堂班（Compiler principles and technologies, Taishan School）<br/>
+sd01331270, 编译原理与技术，计科班（Compiler principles and technologies, Computer Science and Technology）<br/>
 
 ## 部分论文（Selected Publications）
 
