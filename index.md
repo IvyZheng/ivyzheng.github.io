@@ -34,6 +34,21 @@ sd01331270, 编译原理与技术，计科班（Compiler principles and technolo
 
 ## 部分论文（Selected Publications）
 
+<b>Enhancing Text-Video Retrieval Performance With Low-Salient but Discriminative Objects</b><br/>
+<b>Yanwei Zheng</b>, Bowen Huang, Zekai Chen and Dongxiao Yu<br/>
+IEEE Transactions on Image Processing, 2025, 34: 581-593<br/>
+<a href = "2025-1-LSDO.pdf">TIP-LSDO-2025.pdf</a><br/>
+
+<b>A Distributed Abstract MAC Layer for Cooperative Learning on Internet of Vehicles</b><br/>
+Yifei Zou, Zuyuan Zhang, Congwei Zhang, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Jiguo Yu<br/>
+IEEE Transactions on Intelligent Transportation Systems, 2025, 25(8): 8972-8983<br/>
+<a href = "2024-Coor-DAMAC.pdf">ITITS-DAMAC-2024.pdf</a><br/>
+
+<b>Variational Autoencoder Based Automatic Clustering for Multivariate Time Series Anomaly Detection</b><br/>
+Yan Li., Hailin Hu, Kun Yang, Gaozhou Wang, Ti Guan, and <b>Yanwei Zheng*</b><br/>
+WASA 2024. Lecture Notes in Computer Science, vol 14999. Springer, Cham<br/>
+<a href = "2024-Coor-VABAC.pdf">WASA-VABAC-2024.pdf</a><br/>
+
 <b>Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b><br/>
 Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Tian Lan<br/>
 Tsinghua Science and Technology, 2023, 28(6): 1009-1022<br/>
