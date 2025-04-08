@@ -113,7 +113,8 @@ IEEE Access, 2018.6<br/>
 
 ## 学生去向
 
-<table border="1" cellspacing="0" cellpadding="0" width="95%">
+<div style="width: 100%;">
+<table border="1" cellspacing="0" cellpadding="0" style="width: 100%; table-layout: fixed; word-break: break-all;">
   <tr>
     <td rowspan="2" align="center" width="100px"><b>姓名</b></td>
     <td rowspan="2" align="center" width="80px"><b>类别</b></td>
@@ -400,4 +401,5 @@ IEEE Access, 2018.6<br/>
     <td>山东大学（读硕）</td>
   </tr>
 </table>
+</div>
 
