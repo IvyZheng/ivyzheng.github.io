@@ -116,15 +116,15 @@ IEEE Access, 2018.6<br/>
 <div style="width: 100%;">
 <table border="1" cellspacing="0" cellpadding="0" style="width: 100%; table-layout: fixed; word-break: break-all;">
   <tr>
-    <td rowspan="2" align="center" width="80px"><b>姓名</b></td>
+    <td rowspan="2" align="center" width="100px"><b>姓名</b></td>
     <td rowspan="2" align="center" width="80px"><b>类别</b></td>
     <td colspan="2" align="center" width="35%"><b>实习</b></td>
     <td colspan="2" align="center"><b>就业/升学</b></td>
   </tr>
   <tr>
-    <td align="center" width="80px"><b>年份</b></td>
+    <td align="center" width="100px"><b>年份</b></td>
     <td align="center"><b>单位</b></td>
-    <td align="center" width="80px"><b>年份</b></td>
+    <td align="center" width="100px"><b>年份</b></td>
     <td align="center"><b>单位</b></td>
   </tr>
   <tr>
