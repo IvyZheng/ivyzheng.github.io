@@ -32,6 +32,10 @@ Wechat: ivyzheng777<br />
 sd01336150, 编译原理与技术，学堂班（Compiler principles and technologies, Taishan School）<br/>
 sd01331270, 编译原理与技术，计科班（Compiler principles and technologies, Computer Science and Technology）<br/>
 
+## 出版教材（Published Textbook）
+郑艳伟, 于东晓, 周劲. 编译原理与技术（微课版）[M], 北京：清华大学出版社, 2025.（国家级一流本科专业配套教材，面向新工科专业建设计算机系列教材）<br/>
+许畅, 冯洋, 郑艳伟, 陈鄞. 编译方法、技术与实践[M], 北京: 机械工业出版社, 2024. （教育部101计划教材）<br/>
+
 ## 部分论文（Selected Publications）
 
 <b>Enhancing Text-Video Retrieval Performance With Low-Salient but Discriminative Objects</b><br/>
@@ -128,6 +132,14 @@ IEEE Access, 2018.6<br/>
     <td align="center"><b>单位</b></td>
   </tr>
   <tr>
+    <td>李泽昊</td>
+    <td>专硕</td>
+    <td>2025</td>
+    <td>浙江天猫技术有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>李昌瑞</td>
     <td>学硕</td>
     <td>2024</td>
@@ -140,32 +152,32 @@ IEEE Access, 2018.6<br/>
     <td>专硕</td>
     <td>2024</td>
     <td>小米科技有限公司</td>
-    <td>-</td>
-    <td>-</td>
+    <td>2025</td>
+    <td>济南市委组织部干部人事档案管理中心</td>
   </tr>  
   <tr>
     <td>王旭龙</td>
     <td>专硕</td>
     <td>2024</td>
     <td>腾讯科技有限公司（北京）</td>
-    <td>-</td>
-    <td>-</td>
+    <td>2025</td>
+    <td>山东大学（读博）</td>
   </tr>
   <tr>
     <td>魏子惠</td>
     <td>专硕</td>
     <td>2024</td>
     <td>北京三快在线科技有限公司（美团）</td>
-    <td>-</td>
-    <td>-</td>
+    <td>2025</td>
+    <td>北京三快在线科技有限公司（美团）</td>
   </tr>
   <tr>
     <td>孙星宇</td>
     <td>专硕</td>
     <td>2024</td>
     <td>微软中国（苏州）</td>
-    <td>-</td>
-    <td>-</td>
+    <td>2025</td>
+    <td>抖音视界（北京）有限公司（字节跳动）</td>
   </tr>
   <tr>
     <td>贾帅康</td>
