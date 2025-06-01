@@ -32,7 +32,7 @@ Wechat: ivyzheng777<br />
 sd01336150, 编译原理与技术，学堂班（Compiler principles and technologies, Taishan School）<br/>
 sd01331270, 编译原理与技术，计科班（Compiler principles and technologies, Computer Science and Technology）<br/>
 
-## 出版教材（Published Textbook）
+## 出版教材（Published Textbooks）
 郑艳伟, 于东晓, 周劲. 编译原理与技术（微课版）[M], 北京：清华大学出版社, 2025.（国家级一流本科专业配套教材，面向新工科专业建设计算机系列教材）<br/>
 许畅, 冯洋, 郑艳伟, 陈鄞. 编译方法、技术与实践[M], 北京: 机械工业出版社, 2024. （教育部101计划教材）<br/>
 
