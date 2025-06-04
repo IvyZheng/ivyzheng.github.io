@@ -132,10 +132,26 @@ IEEE Access, 2018.6<br/>
     <td align="center"><b>单位</b></td>
   </tr>
   <tr>
+    <td>张兴宇</td>
+    <td>学硕</td>
+    <td>2025</td>
+    <td>京东集团总部</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>李泽昊</td>
     <td>专硕</td>
     <td>2025</td>
     <td>浙江天猫技术有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>徐臻</td>
+    <td>专硕</td>
+    <td>2025</td>
+    <td>众安在线财产保险股份有限公司</td>
     <td>-</td>
     <td>-</td>
   </tr>
