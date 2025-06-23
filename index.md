@@ -28,8 +28,10 @@ Wechat: ivyzheng777<br />
 &hearts; 计算机视觉研究主要集中在落地应用方面，包括但不限于：（1）城市场景各类感兴趣目标的检测、分类等；（2）工业场景的人员、设备、环境的监测、识别和智能巡检；（3）工业产线的瑕疵检测等；（4）文档处理场景的内容识别、伪造识别等；（5）单模态、跨模态数据的检索、生成等。
 
 ## 教学（Teaching）
-sd01336150, 编译原理与技术，学堂班（Compiler principles and technologies, Taishan School）<br/>
-sd01331270, 编译原理与技术，计科班（Compiler principles and technologies, Computer Science and Technology）<br/>
+<ul>
+<li>sd01336150, 编译原理与技术，学堂班（Compiler principles and technologies, Taishan School）</li>
+<li>sd01331270, 编译原理与技术，计科班（Compiler principles and technologies, Computer Science and Technology）</li>
+</ul>
 
 ## 出版教材（Published Textbooks）
 <table border="0" cellspacing="0" cellpadding="0">
