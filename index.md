@@ -28,13 +28,28 @@ Wechat: ivyzheng777<br />
 &hearts; 计算机视觉研究主要集中在落地应用方面，包括但不限于：（1）城市场景各类感兴趣目标的检测、分类等；（2）工业场景的人员、设备、环境的监测、识别和智能巡检；（3）工业产线的瑕疵检测等；（4）文档处理场景的内容识别、伪造识别等；（5）单模态、跨模态数据的检索、生成等。
 
 ## 教学（Teaching）
-
 sd01336150, 编译原理与技术，学堂班（Compiler principles and technologies, Taishan School）<br/>
 sd01331270, 编译原理与技术，计科班（Compiler principles and technologies, Computer Science and Technology）<br/>
 
 ## 出版教材（Published Textbooks）
-郑艳伟, 于东晓, 周劲. 编译原理与技术（微课版）[M], 北京：清华大学出版社, 2025.（国家级一流本科专业配套教材，面向新工科专业建设计算机系列教材）<br/>
-许畅, 冯洋, 郑艳伟, 陈鄞. 编译方法、技术与实践[M], 北京: 机械工业出版社, 2024. （教育部101计划教材）<br/>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="20%">
+      <img src="/Images/TextBook1.jpg" width="100%">
+    </td>
+    <td>
+       <b>郑艳伟</b>, 于东晓, 周劲. 编译原理与技术（微课版）[M], 北京：清华大学出版社, 2025.（国家级一流本科专业配套教材，面向新工科专业建设计算机系列教材）
+    </td>
+  </tr>
+  <tr>
+    <td width="20%">
+      <img src="/Images/TextBook2.jpg" width="100%">
+    </td>
+    <td>
+       许畅, 冯洋, <b>郑艳伟</b>, 陈鄞. 编译方法、技术与实践[M], 北京: 机械工业出版社, 2024. （教育部101计划教材）
+    </td>
+  </tr>
+</table>
 
 ## 部分论文（Selected Publications）
 
