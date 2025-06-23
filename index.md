@@ -34,7 +34,7 @@ sd01331270, 编译原理与技术，计科班（Compiler principles and technolo
 ## 出版教材（Published Textbooks）
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="20%">
+    <td width="10%">
       <img src="/Images/TextBook1.jpg" width="100%">
     </td>
     <td>
@@ -42,7 +42,7 @@ sd01331270, 编译原理与技术，计科班（Compiler principles and technolo
     </td>
   </tr>
   <tr>
-    <td width="20%">
+    <td width="10%">
       <img src="/Images/TextBook2.jpg" width="100%">
     </td>
     <td>
