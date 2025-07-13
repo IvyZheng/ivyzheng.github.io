@@ -36,11 +36,16 @@ Wechat: ivyzheng777<br />
 ## 出版教材（Published Textbooks）
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="15%">
+    <td width="15%" rowspan="2">
       <img src="/Images/TextBook1.jpg" width="100%">
     </td>
     <td>
        <b>郑艳伟</b>, 于东晓, 周劲. 编译原理与技术（微课版）[M], 北京：清华大学出版社, 2025.（国家级一流本科专业配套教材，面向新工科专业建设计算机系列教材）
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>121个算法，125个翻译模式，从零开始手搓编译器。</b>
     </td>
   </tr>
   <tr>
