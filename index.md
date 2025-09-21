@@ -356,8 +356,8 @@ IEEE Access, 2018.6<br/>
   <tr>
     <td>何国海</td>
     <td>专硕</td>
-    <td>-</td>
-    <td>-</td>
+    <td>2022</td>
+    <td>华为技术有限公司</td>
     <td>2023</td>
     <td>华为技术有限公司（上海）</td>
   </tr>
@@ -372,16 +372,16 @@ IEEE Access, 2018.6<br/>
   <tr>
     <td>仲思悦</td>
     <td>专硕</td>
-    <td>-</td>
-    <td>-</td>
+    <td>2022</td>
+    <td>华为技术有限公司</td>
     <td>2023</td>
     <td>战略支援部队直招军官</td>
   </tr>
   <tr>
     <td>陈锋</td>
     <td>专硕</td>
-    <td>-</td>
-    <td>-</td>
+    <td>2022</td>
+    <td>华为技术有限公司</td>
     <td>2023</td>
     <td>山东大学（读博）</td>
   </tr>
