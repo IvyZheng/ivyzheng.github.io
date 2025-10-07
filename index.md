@@ -66,6 +66,18 @@ IEEE Transactions on Image Processing, 2025, 34: 581-593<br/>
 <a href = "2025-1-LSDO.pdf">TIP-LSDO-2025.pdf</a><br/>
 Code is available at <a href = "https://github.com/visee-sdu/LSDO">https://github.com/visee-sdu/LSDO</a><br/>
 
+<b>Action-Aware Visual-Textual Alignment for Long-Instruction Vision-and-Language Navigation</b><br/>
+Bowen Huang, <b>Yanwei Zheng*</b>, Chuanlin Lan, Dongchen Sui, Xinpeng Zhao, Mengbai Xiao, and Dongxiao Yu<br/>
+ACM Transactions on Multimedia Computing, Communications, and Applications, 2025, 21(9): 1-22<br/>
+<a href = "/Attachments/2025-Corr-TOMM-AAVTA.pdf">TOMM-APAF-2025.pdf</a><br/>
+Code is available at <a href = "https://github.com/visee-sdu/APAF">https://github.com/visee-sdu/APAF</a><br/>
+
+<b>Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation</b><br/>
+Bowen Huang, <b>Yanwei Zheng*</b>, Dongchen Sui, Chuanlin Lan, Xinpeng Zhao, Xiao Zhang, Jingke Meng, Mengbai Xiao, Yifei Zou, and Dongxiao Yu<br/>
+IEEE Transactions on Intelligent Transportation Systems, 2025, (8):1-15<br/>
+<a href = "/Attachments/2025-Corr-TITS-TSOR.pdf">TITS-TSOR-2025.pdf</a><br/>
+Code is available at <a href = "https://github.com/visee-sdu/TSOR">https://github.com/visee-sdu/TSOR</a><br/>
+
 <b>A Distributed Abstract MAC Layer for Cooperative Learning on Internet of Vehicles</b><br/>
 Yifei Zou, Zuyuan Zhang, Congwei Zhang, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Jiguo Yu<br/>
 IEEE Transactions on Intelligent Transportation Systems, 2025, 25(8): 8972-8983<br/>
