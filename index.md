@@ -11,7 +11,7 @@ Wechat: ivyzheng777<br />
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="25%">
-      <img src="/ivy_small.jpg" width="100%">
+      <img src="/Images/ivy_small.jpg" width="100%">
     </td>
     <td>
        2019年在北京航空航天大学获得博士学位，主要研究领域包括计算视觉和视觉目标导航。<br />      
@@ -63,7 +63,7 @@ Wechat: ivyzheng777<br />
 <b>Enhancing Text-Video Retrieval Performance With Low-Salient but Discriminative Objects</b><br/>
 <b>Yanwei Zheng</b>, Bowen Huang, Zekai Chen and Dongxiao Yu<br/>
 IEEE Transactions on Image Processing, 2025, 34: 581-593<br/>
-<a href = "2025-1-LSDO.pdf">TIP-LSDO-2025.pdf</a><br/>
+<a href = "/Attachments/2025-1-LSDO.pdf">TIP-LSDO-2025.pdf</a><br/>
 Code is available at <a href = "https://github.com/visee-sdu/LSDO">https://github.com/visee-sdu/LSDO.</a><br/>
 
 <b>Action-Aware Visual-Textual Alignment for Long-Instruction Vision-and-Language Navigation</b><br/>
@@ -81,73 +81,73 @@ Code is available at <a href = "https://github.com/visee-sdu/TSOR">https://githu
 <b>A Distributed Abstract MAC Layer for Cooperative Learning on Internet of Vehicles</b><br/>
 Yifei Zou, Zuyuan Zhang, Congwei Zhang, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Jiguo Yu<br/>
 IEEE Transactions on Intelligent Transportation Systems, 2025, 25(8): 8972-8983<br/>
-<a href = "2024-Coor-DAMAC.pdf">ITITS-DAMAC-2024.pdf</a><br/>
+<a href = "/Attachments/2024-Coor-DAMAC.pdf">ITITS-DAMAC-2024.pdf</a><br/>
 
 <b>Variational Autoencoder Based Automatic Clustering for Multivariate Time Series Anomaly Detection</b><br/>
 Yan Li., Hailin Hu, Kun Yang, Gaozhou Wang, Ti Guan, and <b>Yanwei Zheng*</b><br/>
 WASA 2024. Lecture Notes in Computer Science, vol 14999. Springer, Cham<br/>
-<a href = "2024-Coor-VABAC.pdf">WASA-VABAC-2024.pdf</a><br/>
+<a href = "/Attachments/2024-Coor-VABAC.pdf">WASA-VABAC-2024.pdf</a><br/>
 
 <b>Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b><br/>
 Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Tian Lan<br/>
 Tsinghua Science and Technology, 2023, 28(6): 1009-1022<br/>
-<a href = "2023-Corr-OptimizedConsensus.pdf">TST-Optimized-2023.pdf</a><br/>
+<a href = "/Attachments/2023-Corr-OptimizedConsensus.pdf">TST-Optimized-2023.pdf</a><br/>
 
 <b>Finer-Grained Engagement in Hypergraphs</b><br/>
 Qi Luo, Dongxiao Yu, Yu Liu, <b>Yanwei Zheng*</b>, Xiuzhen Cheng, and Xuemin Lin<br/>
 International Conference on Data Engineering (ICDE), 2023<br/>
-<a href = "ICDE2023-FGE.pdf">ICDE-Finer-2023.pdf</a><br/>
+<a href = "/Attachments/ICDE2023-FGE.pdf">ICDE-Finer-2023.pdf</a><br/>
 
 <b>Robust Decentralized Stochastic Gradient Descent over Unstable Networks</b><br/>
 <b>Yanwei Zheng</b>, Liangxu Zhang, Shuzhen Chen, Xiao Zhang, Zhipeng Cai, and Xiuzhen Cheng<br/>
 Computer Communications, 2023, 203(4): 163-179.<br/>
-<a href = "2023-1-RDSGD.pdf">ComCom-Robust-2023.pdf</a><br/>
+<a href = "/Attachments/2023-1-RDSGD.pdf">ComCom-Robust-2023.pdf</a><br/>
 
 <b>Multi-agent reinforcement learning enabled link scheduling for next generation Internet of Things</b><br/>
 Yifei Zou, Haofei Yin, <b>Yanwei Zheng*</b>, Falko Dressler<br/>
 Computer Communications, 2023, 205(5): 35-44.<br/>
-<a href = "2023-Corr-Multi-agentRL.pdf">ComCom-Multi-2023.pdf</a><br/>
+<a href = "/Attachments/2023-Corr-Multi-agentRL.pdf">ComCom-Multi-2023.pdf</a><br/>
 
 <b>WFLTree: A Spanning Tree Construction for Federated Learning in Wireless Networks</b><br/>
 Shuo Li, <b>Yanwei Zheng*</b>, and Yifei Zou<br/>
 Journal of Circuits, Systems, and Computers, 2023, 32(13): 1-15.<br/>
-<a href = "JCSC-2023-WFLTree.pdf">JCSC-WFLTree-2023.pdf</a><br/>
+<a href = "/Attachments/JCSC-2023-WFLTree.pdf">JCSC-WFLTree-2023.pdf</a><br/>
 
 <b>A Truss-Based Framework for Graph Similarity Computation</b><br/>
 <b>Yanwei Zheng</b>, Zichun Zhang, Qi Luo, Zhenzhen Xie, Dongxiao Yu<br/>
 Journal of Database Management, 2023, 34(1): 1-18.<br/>
-<a href = "2023-1-A-TBFramework.pdf">DM-A-2023.pdf</a><br/>
+<a href = "/Attachments/2023-1-A-TBFramework.pdf">DM-A-2023.pdf</a><br/>
 
 <b>Template-Aware Transformer for Person Re-Identification</b><br/>
 <b>Yanwei Zheng</b>, Zengrui Zhao, Xiaowei Yu, Dongxiao Yu<br/>
 Computational Intelligence and Neuroscience, 2022.4<br/>
-<a href = "CIN-Template-2022.pdf">CIN-Template-2022.pdf</a><br/>
+<a href = "/Attachments/CIN-Template-2022.pdf">CIN-Template-2022.pdf</a><br/>
 Code is available at <a href = "https://github.com/template-aware/TAT">https://github.com/template-aware/TAT.</a><br/>
 
 <b>Fault-Tolerant Consensus in Wireless Blockchain System</b><br/>
 Yifei Zou, Yufan Li, Dongxiao Yu, Feng Li, <b>Yanwei Zheng*</b>, Yan Zhang<br/>
 The 16th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2021)<br/>
-<a href = "Zou_Fault-2021.pdf">WASA-Fault-2021.pdf</a><br/>
+<a href = "/Attachments/Zou_Fault-2021.pdf">WASA-Fault-2021.pdf</a><br/>
 
 <b>Core-GAE: Towards Generation of IoT Networks</b><br/>
 Qi Luo, Dongxiao Yu, <b>Yanwei Zheng*</b>, Hao Sheng, and Xiuzheng Cheng<br/>
 IEEE Internet of Things Journal, 2021.5<br/>
-<a href = "IoT-Core-2021.pdf">IoT-Core-2021.pdf</a><br/>
+<a href = "/Attachments/IoT-Core-2021.pdf">IoT-Core-2021.pdf</a><br/>
 
 <b>Adaptive Tensor-Train Decomposition for Neural Network Compression</b><br/>
 <b>Yanwei Zheng</b>, Yang Zhou, Zengrui Zhao, and Dongxiao Yu<br/>
 Parallel and Distributed Computing, Applications and Technologies 2020 (PDCAT 2020)<br/>
-<a href = "PDCAT-Adaptive-2020.pdf">PDCAT-Adaptive-2020.pdf</a><br/>
+<a href = "/Attachments/PDCAT-Adaptive-2020.pdf">PDCAT-Adaptive-2020.pdf</a><br/>
 
 <b>Mining Hard Samples Globally and Efficiently for Person Re-identification</b><br/>
 Hao Sheng, <b>Yanwei Zheng*</b>, Wei Ke, Dongxiao Yu, Xiuzhen Cheng, Weifeng Lyu, Zhang Xiong<br/>
 IEEE Internet of Things Journal, 2020.7<br/>
-<a href = "IoT_Mining-2020.pdf">IoT_Mining-2020.pdf</a><br/>
+<a href = "/Attachments/IoT_Mining-2020.pdf">IoT_Mining-2020.pdf</a><br/>
 
 <b>Learning Irregular Space Transformation for Person Re-identification</b><br/>
 <b>Yanwei Zheng</b>, Hao Sheng*, Yang Liu, Kai Lv, Wei Ke and Zhang Xiong<br/>
 IEEE Access, 2018.6<br/>
-<a href = "Access-Learning-2018.pdf">Access-Learning-2018.pdf</a><br/>
+<a href = "/Attachments/Access-Learning-2018.pdf">Access-Learning-2018.pdf</a><br/>
 
 ## 学生去向
 
