@@ -63,7 +63,7 @@ Wechat: ivyzheng777<br />
 <b>Enhancing Text-Video Retrieval Performance With Low-Salient but Discriminative Objects</b><br/>
 <b>Yanwei Zheng</b>, Bowen Huang, Zekai Chen and Dongxiao Yu<br/>
 IEEE Transactions on Image Processing, 2025, 34: 581-593<br/>
-<a href = "/Attachments/2025-1-LSDO.pdf">TIP-LSDO-2025.pdf</a><br/>
+<a href = "/Attachments/2025-1-TIP-LSDO.pdf">2025-1-TIP-LSDO.pdf</a><br/>
 Code is available at <a href = "https://github.com/visee-sdu/LSDO">https://github.com/visee-sdu/LSDO.</a><br/>
 
 <b>Action-Aware Visual-Textual Alignment for Long-Instruction Vision-and-Language Navigation</b><br/>
@@ -88,15 +88,15 @@ Yan Li., Hailin Hu, Kun Yang, Gaozhou Wang, Ti Guan, and <b>Yanwei Zheng*</b><br
 WASA 2024. Lecture Notes in Computer Science, vol 14999. Springer, Cham<br/>
 <a href = "/Attachments/2024-Coor-VABAC.pdf">WASA-VABAC-2024.pdf</a><br/>
 
-<b>Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b><br/>
-Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Tian Lan<br/>
-Tsinghua Science and Technology, 2023, 28(6): 1009-1022<br/>
-<a href = "/Attachments/2023-Corr-OptimizedConsensus.pdf">TST-Optimized-2023.pdf</a><br/>
-
 <b>Finer-Grained Engagement in Hypergraphs</b><br/>
 Qi Luo, Dongxiao Yu, Yu Liu, <b>Yanwei Zheng*</b>, Xiuzhen Cheng, and Xuemin Lin<br/>
 International Conference on Data Engineering (ICDE), 2023<br/>
-<a href = "/Attachments/ICDE2023-FGE.pdf">ICDE-Finer-2023.pdf</a><br/>
+<a href = "/Attachments/2023-Corr-ICDE2023-FGE.pdf">2023-Corr-ICDE2023-FGE.pdf</a><br/>
+
+<b>Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b><br/>
+Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Tian Lan<br/>
+Tsinghua Science and Technology, 2023, 28(6): 1009-1022<br/>
+<a href = "/Attachments/2023-Corr-TST-OptimizedConsensus.pdf">2023-Corr-TST-OptimizedConsensus.pdf</a><br/>
 
 <b>Robust Decentralized Stochastic Gradient Descent over Unstable Networks</b><br/>
 <b>Yanwei Zheng</b>, Liangxu Zhang, Shuzhen Chen, Xiao Zhang, Zhipeng Cai, and Xiuzhen Cheng<br/>
@@ -117,12 +117,6 @@ Journal of Circuits, Systems, and Computers, 2023, 32(13): 1-15.<br/>
 <b>Yanwei Zheng</b>, Zichun Zhang, Qi Luo, Zhenzhen Xie, Dongxiao Yu<br/>
 Journal of Database Management, 2023, 34(1): 1-18.<br/>
 <a href = "/Attachments/2023-1-A-TBFramework.pdf">DM-A-2023.pdf</a><br/>
-
-<b>Template-Aware Transformer for Person Re-Identification</b><br/>
-<b>Yanwei Zheng</b>, Zengrui Zhao, Xiaowei Yu, Dongxiao Yu<br/>
-Computational Intelligence and Neuroscience, 2022.4<br/>
-<a href = "/Attachments/CIN-Template-2022.pdf">CIN-Template-2022.pdf</a><br/>
-Code is available at <a href = "https://github.com/template-aware/TAT">https://github.com/template-aware/TAT.</a><br/>
 
 <b>Fault-Tolerant Consensus in Wireless Blockchain System</b><br/>
 Yifei Zou, Yufan Li, Dongxiao Yu, Feng Li, <b>Yanwei Zheng*</b>, Yan Zhang<br/>
