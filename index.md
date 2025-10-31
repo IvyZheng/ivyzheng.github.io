@@ -14,7 +14,7 @@ Wechat: ivyzheng777<br />
       <img src="/Images/ivy_small.jpg" width="100%">
     </td>
     <td>
-       2019年在北京航空航天大学获得博士学位，主要研究领域包括计算视觉和视觉目标导航。<br />      
+       2019年在北京航空航天大学获得博士学位，主要研究领域包括计算视觉、视觉目标导航、编译器设计。<br />      
        Dr. Yanwei Zheng is currently an Associate Professor in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br />
         Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br />
         His research interests span computer vision and visual object navigation. <br/>
@@ -26,6 +26,16 @@ Wechat: ivyzheng777<br />
 &hearts; 视觉目标导航是一个具身智能任务，指在一个未知场景中，通过自然语言或图像给出一个已见或未见目标，使智能体仅仅通过自身携带的单目摄像机的第一人称视觉信息，快速找到给定的目标；其中未知场景和未见目标分别指训练集中未出现的场景和目标。
 
 &hearts; 计算机视觉，包括但不限于：（1）城市场景各类感兴趣目标的检测、分类等；（2）工业场景的人员、设备、环境的监测、识别和智能巡检；（3）工业产线的瑕疵检测等；（4）文档处理场景的内容识别、伪造识别等；（5）单模态、跨模态数据的检索、生成等。
+
+## 工作学习（Experience）
+<ul>
+  <li>2019.4~现在，山东大学计算机科学与技术学院，副研究员； </li>
+  <li>2013.9~2019.1，北京航空航天大学计算机学院，获计算机应用专业工学博士学位；</li>
+  <li>2004.7~2013.7，济南大学信息科学与工程学院，助教、讲师；</li>
+  <li>2001.9~2004.7，山东大学计算机科学与技术学院，获计算机软件专业工学硕士学位；</li>
+  <li>1999.7~2001.9，济南华亚机械有限公司、济南现代计算机工程公司、济南法恩特集成技术研究所；</li>
+  <li>1995.9~1999.7，山东建筑工程学院机电系，获机械电子工程专业工学学士学位。</li>
+</ul>
 
 ## 教学（Teaching）
 <ul>
