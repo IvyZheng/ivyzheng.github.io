@@ -18,14 +18,14 @@ Wechat: ivyzheng777<br />
        Dr. Yanwei Zheng is currently an Associate Professor in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br />
         Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br />
         His research interests span computer vision and visual object navigation. <br/>
-      <b>**I am looking for self-motivated master students to collaborate on academic projects.**</b>
+      <b>**I am looking for self-motivated undergraduate, master and Ph.D students to collaborate with.**</b>
     </td>
   </tr>
 </table>
 
 &hearts; 视觉目标导航是一个具身智能任务，指在一个未知场景中，通过自然语言或图像给出一个已见或未见目标，使智能体仅仅通过自身携带的单目摄像机的第一人称视觉信息，快速找到给定的目标；其中未知场景和未见目标分别指训练集中未出现的场景和目标。
 
-&hearts; 计算机视觉研究主要集中在落地应用方面，包括但不限于：（1）城市场景各类感兴趣目标的检测、分类等；（2）工业场景的人员、设备、环境的监测、识别和智能巡检；（3）工业产线的瑕疵检测等；（4）文档处理场景的内容识别、伪造识别等；（5）单模态、跨模态数据的检索、生成等。
+&hearts; 计算机视觉，包括但不限于：（1）城市场景各类感兴趣目标的检测、分类等；（2）工业场景的人员、设备、环境的监测、识别和智能巡检；（3）工业产线的瑕疵检测等；（4）文档处理场景的内容识别、伪造识别等；（5）单模态、跨模态数据的检索、生成等。
 
 ## 教学（Teaching）
 <ul>
@@ -75,13 +75,13 @@ Code is available at <a href = "https://github.com/visee-sdu/APAF">https://githu
 <b>Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation</b><br/>
 Bowen Huang, <b>Yanwei Zheng*</b>, Dongchen Sui, Chuanlin Lan, Xinpeng Zhao, Xiao Zhang, Jingke Meng, Mengbai Xiao, Yifei Zou, and Dongxiao Yu<br/>
 IEEE Transactions on Intelligent Transportation Systems, 2025, (8):1-15<br/>
-<a href = "/Attachments/2025-Corr-TITS-TSOR.pdf">TITS-TSOR-2025.pdf</a><br/>
+<a href = "/Attachments/2025-Corr-TITS-TSOR.pdf">ITS-TSOR-2025.pdf</a><br/>
 Code is available at <a href = "https://github.com/visee-sdu/TSOR">https://github.com/visee-sdu/TSOR.</a><br/>
 
 <b>A Distributed Abstract MAC Layer for Cooperative Learning on Internet of Vehicles</b><br/>
 Yifei Zou, Zuyuan Zhang, Congwei Zhang, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Jiguo Yu<br/>
 IEEE Transactions on Intelligent Transportation Systems, 2025, 25(8): 8972-8983<br/>
-<a href = "/Attachments/2024-Coor-DAMAC.pdf">ITITS-DAMAC-2024.pdf</a><br/>
+<a href = "/Attachments/2024-Coor-DAMAC.pdf">ITS-DAMAC-2024.pdf</a><br/>
 
 <b>Variational Autoencoder Based Automatic Clustering for Multivariate Time Series Anomaly Detection</b><br/>
 Yan Li., Hailin Hu, Kun Yang, Gaozhou Wang, Ti Guan, and <b>Yanwei Zheng*</b><br/>
