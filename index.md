@@ -70,88 +70,98 @@ Wechat: ivyzheng777<br />
 
 ## 部分论文（Selected Publications）
 
-<b>Enhancing Text-Video Retrieval Performance With Low-Salient but Discriminative Objects</b><br/>
+<b>[18]. Enhancing Text-Video Retrieval Performance With Low-Salient but Discriminative Objects</b> 
+<a href = "/Attachments/2025-1-TIP-LSDO.pdf">[pdf]</a><br/>
 <b>Yanwei Zheng</b>, Bowen Huang, Zekai Chen and Dongxiao Yu<br/>
 IEEE Transactions on Image Processing, 2025, 34: 581-593<br/>
-<a href = "/Attachments/2025-1-TIP-LSDO.pdf">2025-1-TIP-LSDO.pdf</a><br/>
 Code is available at <a href = "https://github.com/visee-sdu/LSDO">https://github.com/visee-sdu/LSDO.</a><br/>
 
-<b>Action-Aware Visual-Textual Alignment for Long-Instruction Vision-and-Language Navigation</b><br/>
+<b>[17]. Action-Aware Visual-Textual Alignment for Long-Instruction Vision-and-Language Navigation</b>
+<a href = "/Attachments/2025-Corr-TOMM-AAVTA.pdf">[pdf]</a><br/>
 Bowen Huang, <b>Yanwei Zheng*</b>, Chuanlin Lan, Dongchen Sui, Xinpeng Zhao, Mengbai Xiao, and Dongxiao Yu<br/>
 ACM Transactions on Multimedia Computing, Communications, and Applications, 2025, 21(9): 1-22<br/>
-<a href = "/Attachments/2025-Corr-TOMM-AAVTA.pdf">TOMM-APAF-2025.pdf</a><br/>
 Code is available at <a href = "https://github.com/visee-sdu/APAF">https://github.com/visee-sdu/APAF.</a><br/>
 
-<b>Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation</b><br/>
+<b>[16]. Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation</b>
+<a href = "/Attachments/2025-Corr-TITS-TSOR.pdf">[pdf]</a><br/>
 Bowen Huang, <b>Yanwei Zheng*</b>, Dongchen Sui, Chuanlin Lan, Xinpeng Zhao, Xiao Zhang, Jingke Meng, Mengbai Xiao, Yifei Zou, and Dongxiao Yu<br/>
 IEEE Transactions on Intelligent Transportation Systems, 2025, (8):1-15<br/>
-<a href = "/Attachments/2025-Corr-TITS-TSOR.pdf">ITS-TSOR-2025.pdf</a><br/>
 Code is available at <a href = "https://github.com/visee-sdu/TSOR">https://github.com/visee-sdu/TSOR.</a><br/>
 
-<b>A Distributed Abstract MAC Layer for Cooperative Learning on Internet of Vehicles</b><br/>
+<b>[15]. Adaptive Strategy Weighting with Fault Tolerant Localization for Object Navigation</b>
+<a href = "/Attachments/2025-1-ICME-Adaptive.pdf">[pdf]</a><br/>
+<b>Yanwei Zheng</b>, Shaopu Feng, Bowen Huang, Changrui Li, Xiao Zhang, and Dongxiao Yu*<br/>
+The 26th IEEE International Conference on Multimedia and Expo (ICME 2025), Nantes, France , June 30 to July 4, 2025. <br/>
+
+<b>[14]. Efficient Strategy Learning by Decoupling Searching and Pathfinding for Object Navigation</b>
+<a href = "/Attachments/2025-1-SMC25-FI.pdf">[pdf]</a><br/>
+<b>Yanwei Zheng</b>, Shaopu Feng, Bowen Huang, Chuanlin Lan, Xiao Zhang, and Dongxiao Yu*<br/>
+The 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Vienna, Austria, Oct. 5-8, 2025. <br/>
+
+<b>[13]. A Distributed Abstract MAC Layer for Cooperative Learning on Internet of Vehicles</b>
+<a href = "/Attachments/2024-Coor-DAMAC.pdf">[pdf]</a><br/>
 Yifei Zou, Zuyuan Zhang, Congwei Zhang, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Jiguo Yu<br/>
 IEEE Transactions on Intelligent Transportation Systems, 2025, 25(8): 8972-8983<br/>
-<a href = "/Attachments/2024-Coor-DAMAC.pdf">ITS-DAMAC-2024.pdf</a><br/>
 
-<b>Variational Autoencoder Based Automatic Clustering for Multivariate Time Series Anomaly Detection</b><br/>
+<b>[12]. Variational Autoencoder Based Automatic Clustering for Multivariate Time Series Anomaly Detection</b>
+<a href = "/Attachments/2024-Coor-VABAC.pdf">[pdf]</a><br/>
 Yan Li., Hailin Hu, Kun Yang, Gaozhou Wang, Ti Guan, and <b>Yanwei Zheng*</b><br/>
 WASA 2024. Lecture Notes in Computer Science, vol 14999. Springer, Cham<br/>
-<a href = "/Attachments/2024-Coor-VABAC.pdf">WASA-VABAC-2024.pdf</a><br/>
 
-<b>Finer-Grained Engagement in Hypergraphs</b><br/>
+<b>[11]. Finer-Grained Engagement in Hypergraphs</b>
+<a href = "/Attachments/2023-Corr-ICDE2023-FGE.pdf">[pdf]</a><br/>
 Qi Luo, Dongxiao Yu, Yu Liu, <b>Yanwei Zheng*</b>, Xiuzhen Cheng, and Xuemin Lin<br/>
 International Conference on Data Engineering (ICDE), 2023<br/>
-<a href = "/Attachments/2023-Corr-ICDE2023-FGE.pdf">2023-Corr-ICDE2023-FGE.pdf</a><br/>
 
-<b>Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b><br/>
+<b>[10]. Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b>
+<a href = "/Attachments/2023-Corr-TST-OptimizedConsensus.pdf">[pdf]</a><br/>
 Yifei Zou, Zongjing Jin, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Tian Lan<br/>
 Tsinghua Science and Technology, 2023, 28(6): 1009-1022<br/>
-<a href = "/Attachments/2023-Corr-TST-OptimizedConsensus.pdf">2023-Corr-TST-OptimizedConsensus.pdf</a><br/>
 
-<b>Robust Decentralized Stochastic Gradient Descent over Unstable Networks</b><br/>
+<b>[9]. Robust Decentralized Stochastic Gradient Descent over Unstable Networks</b>
+<a href = "/Attachments/2023-1-RDSGD.pdf">[pdf]</a><br/>
 <b>Yanwei Zheng</b>, Liangxu Zhang, Shuzhen Chen, Xiao Zhang, Zhipeng Cai, and Xiuzhen Cheng<br/>
 Computer Communications, 2023, 203(4): 163-179.<br/>
-<a href = "/Attachments/2023-1-RDSGD.pdf">ComCom-Robust-2023.pdf</a><br/>
 
-<b>Multi-agent reinforcement learning enabled link scheduling for next generation Internet of Things</b><br/>
+<b>[8]. Multi-agent reinforcement learning enabled link scheduling for next generation Internet of Things</b>
+<a href = "/Attachments/2023-Corr-Multi-agentRL.pdf">[pdf]</a><br/>
 Yifei Zou, Haofei Yin, <b>Yanwei Zheng*</b>, Falko Dressler<br/>
 Computer Communications, 2023, 205(5): 35-44.<br/>
-<a href = "/Attachments/2023-Corr-Multi-agentRL.pdf">ComCom-Multi-2023.pdf</a><br/>
 
-<b>WFLTree: A Spanning Tree Construction for Federated Learning in Wireless Networks</b><br/>
+<b>[7]. WFLTree: A Spanning Tree Construction for Federated Learning in Wireless Networks</b>
+<a href = "/Attachments/JCSC-2023-WFLTree.pdf">[pdf]</a><br/>
 Shuo Li, <b>Yanwei Zheng*</b>, and Yifei Zou<br/>
 Journal of Circuits, Systems, and Computers, 2023, 32(13): 1-15.<br/>
-<a href = "/Attachments/JCSC-2023-WFLTree.pdf">JCSC-WFLTree-2023.pdf</a><br/>
 
-<b>A Truss-Based Framework for Graph Similarity Computation</b><br/>
+<b>[6]. A Truss-Based Framework for Graph Similarity Computation</b>
+<a href = "/Attachments/2023-1-A-TBFramework.pdf">[pdf]</a><br/>
 <b>Yanwei Zheng</b>, Zichun Zhang, Qi Luo, Zhenzhen Xie, Dongxiao Yu<br/>
 Journal of Database Management, 2023, 34(1): 1-18.<br/>
-<a href = "/Attachments/2023-1-A-TBFramework.pdf">DM-A-2023.pdf</a><br/>
 
-<b>Fault-Tolerant Consensus in Wireless Blockchain System</b><br/>
+<b>[5]. Fault-Tolerant Consensus in Wireless Blockchain System</b>
+<a href = "/Attachments/Zou_Fault-2021.pdf">[pdf]</a><br/>
 Yifei Zou, Yufan Li, Dongxiao Yu, Feng Li, <b>Yanwei Zheng*</b>, Yan Zhang<br/>
 The 16th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2021)<br/>
-<a href = "/Attachments/Zou_Fault-2021.pdf">WASA-Fault-2021.pdf</a><br/>
 
-<b>Core-GAE: Towards Generation of IoT Networks</b><br/>
+<b>[4]. Core-GAE: Towards Generation of IoT Networks</b>
+<a href = "/Attachments/IoT-Core-2021.pdf">[pdf]</a><br/>
 Qi Luo, Dongxiao Yu, <b>Yanwei Zheng*</b>, Hao Sheng, and Xiuzheng Cheng<br/>
 IEEE Internet of Things Journal, 2021.5<br/>
-<a href = "/Attachments/IoT-Core-2021.pdf">IoT-Core-2021.pdf</a><br/>
 
-<b>Adaptive Tensor-Train Decomposition for Neural Network Compression</b><br/>
+<b>[3]. Adaptive Tensor-Train Decomposition for Neural Network Compression</b>
+<a href = "/Attachments/PDCAT-Adaptive-2020.pdf">[pdf]</a><br/>
 <b>Yanwei Zheng</b>, Yang Zhou, Zengrui Zhao, and Dongxiao Yu<br/>
 Parallel and Distributed Computing, Applications and Technologies 2020 (PDCAT 2020)<br/>
-<a href = "/Attachments/PDCAT-Adaptive-2020.pdf">PDCAT-Adaptive-2020.pdf</a><br/>
 
-<b>Mining Hard Samples Globally and Efficiently for Person Re-identification</b><br/>
+<b>[2]. Mining Hard Samples Globally and Efficiently for Person Re-identification</b>
+<a href = "/Attachments/IoT_Mining-2020.pdf">[pdf]</a><br/>
 Hao Sheng, <b>Yanwei Zheng*</b>, Wei Ke, Dongxiao Yu, Xiuzhen Cheng, Weifeng Lyu, Zhang Xiong<br/>
 IEEE Internet of Things Journal, 2020.7<br/>
-<a href = "/Attachments/IoT_Mining-2020.pdf">IoT_Mining-2020.pdf</a><br/>
 
-<b>Learning Irregular Space Transformation for Person Re-identification</b><br/>
+<b>[1]. Learning Irregular Space Transformation for Person Re-identification</b>
+<a href = "/Attachments/Access-Learning-2018.pdf">[pdf]</a><br/>
 <b>Yanwei Zheng</b>, Hao Sheng*, Yang Liu, Kai Lv, Wei Ke and Zhang Xiong<br/>
 IEEE Access, 2018.6<br/>
-<a href = "/Attachments/Access-Learning-2018.pdf">Access-Learning-2018.pdf</a><br/>
 
 ## 学生去向
 
