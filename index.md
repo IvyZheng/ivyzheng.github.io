@@ -14,18 +14,14 @@ Wechat: ivyzheng777<br />
       <img src="/Images/ivy_small.jpg" width="100%">
     </td>
     <td>
-       2019年在北京航空航天大学获得博士学位，主要研究领域包括计算视觉、视觉目标导航、编译器设计。<br />      
-       Dr. Yanwei Zheng is currently an Associate Professor in Institute of Intelligent Computing (IIC) at School of Computer Science and Technology, Shandong University.<br />
-        Yanwei Zheng received his Ph.D. degree on January 2019 from Beihang University, supervised by Prof. Zhang Xiong. He received the M.S. degree from Shandong University in 2004, and the B.S. degree from Shandong Jianzhu University in 1999. <br />
-        His research interests span computer vision and visual object navigation. <br/>
-      <b>**I am looking for self-motivated undergraduate, master and Ph.D students to collaborate with.**</b>
+       郑艳伟，山东大学计算机科学与技术学院副教授、博士生导师，主要研究领域包括计算机视觉、视觉目标导航、编译器设计。近五年发表学术论文20余篇，授权国家发明专利30余项。近五年主持科研项目总经费超过1200万元，多项成果与国家电网、华为、浪潮、歌尔、中车、海信等企业深度合作并成功落地应用。指导学生获2024年互联网+创新创业大赛山东省金奖，主编面向新工科计算机专业教材1部（954千字），参编教育部101计划核心教材1部（444千字）。
     </td>
   </tr>
 </table>
 
-&hearts; 视觉目标导航是一个具身智能任务，指在一个未知场景中，通过自然语言或图像给出一个已见或未见目标，使智能体仅仅通过自身携带的单目摄像机的第一人称视觉信息，快速找到给定的目标；其中未知场景和未见目标分别指训练集中未出现的场景和目标。
+&hearts; 视觉目标导航是一个具身智能任务，指在一个未知场景中，通过自然语言或图像给出一个已见或未见目标，使智能体仅仅通过自身携带的单目第一人称视觉信息，快速找到给定的目标；其中未知场景和未见目标分别指训练集中未出现的场景和目标。
 
-&hearts; 计算机视觉，包括但不限于：（1）城市场景各类感兴趣目标的检测、分类等；（2）工业场景的人员、设备、环境的监测、识别和智能巡检；（3）工业产线的瑕疵检测等；（4）文档处理场景的内容识别、伪造识别等；（5）单模态、跨模态数据的检索、生成等。
+&hearts; 计算机视觉，主要关注基于视觉-语言的跨模态语义对齐，以及工业产线的缺陷检测等。
 
 ## 工作学习（Experience）
 <ul>
