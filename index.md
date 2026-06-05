@@ -193,28 +193,76 @@ IEEE Access, 2018.6<br/>
     <td align="center"><b>单位</b></td>
   </tr>
   <tr>
+    <td>黄博文</td>
+    <td>博士</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2026</td>
+    <td>中国海洋大学</td>
+  </tr>
+  <tr>
     <td>张兴宇</td>
     <td>学硕</td>
     <td>2025</td>
     <td>京东集团总部</td>
+    <td>2026</td>
+    <td>北京字节跳动科技有限公司</td>
+  </tr>
+  <tr>
+    <td>冯少浦</td>
+    <td>学硕</td>
     <td>-</td>
     <td>-</td>
+    <td>2026</td>
+    <td>国网山东电力公司</td>
   </tr>
   <tr>
     <td>李泽昊</td>
     <td>专硕</td>
     <td>2025</td>
-    <td>浙江天猫技术有限公司</td>
-    <td>-</td>
-    <td>-</td>
+    <td>阿里巴巴淘天有限公司</td>
+    <td>2026</td>
+    <td>上海米哈游网络科技股份有限公司</td>
   </tr>
   <tr>
     <td>徐臻</td>
     <td>专硕</td>
     <td>2025</td>
     <td>众安在线财产保险股份有限公司</td>
+    <td>2026</td>
+    <td>甘肃选调</td>
+  </tr>
+  <tr>
+    <td>闫一凡</td>
+    <td>专硕</td>
+    <td>2024</td>
+    <td>歌尔股份有限公司</td>
+    <td>2026</td>
+    <td>青岛市退役军人事务局</td>
+  </tr>
+  <tr>
+    <td>林美君</td>
+    <td>专硕</td>
+    <td>2024</td>
+    <td>歌尔股份有限公司</td>
+    <td>2026</td>
+    <td>太原市工业和信息化局</td>
+  </tr>
+  <tr>
+    <td>姜华巍</td>
+    <td>专硕</td>
+    <td>2024</td>
+    <td>歌尔股份有限公司</td>
+    <td>2026</td>
+    <td>潍柴动力股份有限公司</td>
+  </tr>
+  <tr>
+    <td>曾泽相</td>
+    <td>专硕</td>
     <td>-</td>
     <td>-</td>
+    <td>2026</td>
+    <td>广东电网有限责任公司</td>
   </tr>
   <tr>
     <td>李昌瑞</td>
