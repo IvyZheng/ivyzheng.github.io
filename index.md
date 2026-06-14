@@ -193,8 +193,48 @@ IEEE Access, 2018.6<br/>
     <td align="center"><b>单位</b></td>
   </tr>
   <tr>
+    <td>苏倩怡</td>
+    <td>专硕</td>
+    <td>2026</td>
+    <td>中兴通讯股份有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>乔浩然</td>
+    <td>专硕</td>
+    <td>2026</td>
+    <td>杭州阿里巴巴海外网络科技有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>付兴豪</td>
+    <td>专硕</td>
+    <td>2026</td>
+    <td>北京沃特镁隆科技有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>周志通</td>
+    <td>专硕</td>
+    <td>2026</td>
+    <td>北京沃特镁隆科技有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>刘卫健</td>
+    <td>专硕</td>
+    <td>2026</td>
+    <td>洋葱学园</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>黄博文</td>
-    <td>博士</td>
+    <td>专博</td>
     <td>-</td>
     <td>-</td>
     <td>2026</td>
