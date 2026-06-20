@@ -233,6 +233,14 @@ IEEE Access, 2018.6<br/>
     <td>-</td>
   </tr>
   <tr>
+    <td>訾雪晗</td>
+    <td>专硕</td>
+    <td>2026</td>
+    <td>上海得物信息集团有限公司</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>黄博文</td>
     <td>专博</td>
     <td>-</td>
