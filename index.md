@@ -52,8 +52,9 @@ Wechat: ivyzheng777<br />
 
 ## 教学（Teaching）
 <ul>
-<li>sd01336150, 编译原理与技术，学堂班（Compiler principles and technologies, Taishan School）</li>
-<li>sd01331270, 编译原理与技术，计科班（Compiler principles and technologies, Computer Science and Technology）</li>
+  <li>sd013363D0, <a href = "https://github.com/visee-sdu/CompilerCourse">编译原理</a>，学堂班、计科班（Compiler principles, Taishan School and Computer Science and Technology）</li>
+  <li>sd01336150, <a href = "https://github.com/visee-sdu/CompilerCourse">编译原理与技术</a>，学堂班（Compiler principles and technologies, Taishan School）</li>
+  <li>sd01331270, <a href = "https://github.com/visee-sdu/CompilerCourse">编译原理与技术</a>，计科班（Compiler principles and technologies, Computer Science and Technology）</li>
 </ul>
 
 ## 出版教材（Published Textbooks）
