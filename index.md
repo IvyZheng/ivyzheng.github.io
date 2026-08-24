@@ -243,7 +243,7 @@ IEEE Access, 2018.6<br/>
   </tr>
   <tr>
     <td>黄博文</td>
-    <td>专博</td>
+    <td>博士</td>
     <td>-</td>
     <td>-</td>
     <td>2026</td>
@@ -316,6 +316,14 @@ IEEE Access, 2018.6<br/>
   <tr>
     <td>高明开</td>
     <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2026</td>
+    <td>山东大学（硕转博）</td>
+  </tr>
+  <tr>
+    <td>焦安磊</td>
+    <td>学硕</td>
     <td>-</td>
     <td>-</td>
     <td>2026</td>
