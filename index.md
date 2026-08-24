@@ -314,6 +314,14 @@ IEEE Access, 2018.6<br/>
     <td>广东电网有限责任公司</td>
   </tr>
   <tr>
+    <td>高明开</td>
+    <td>专硕</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2026</td>
+    <td>山东大学（硕转博）</td>
+  </tr>
+  <tr>
     <td>李昌瑞</td>
     <td>学硕</td>
     <td>2024</td>
