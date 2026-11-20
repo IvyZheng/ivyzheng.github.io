@@ -87,7 +87,8 @@ Wechat: ivyzheng777<br />
 <b>[18] Enhancing Text-Video Retrieval Performance With Low-Salient but Discriminative Objects</b> 
 <a href = "/Attachments/2025-1-TIP-LSDO.pdf">[pdf]</a><br/>
 <b>Yanwei Zheng</b>, Bowen Huang, Zekai Chen and Dongxiao Yu<br/>
-IEEE Transactions on Image Processing, 2025, 34: 581-593<br/>
+IEEE Transactions on Image Processing, 2025, 34: 581-593 <a href="./Citations/p18.html" target="_blank">cite</a>
+<br/>
 Code is available at <a href = "https://github.com/visee-sdu/LSDO">https://github.com/visee-sdu/LSDO.</a><br/>
 
 <b>[17] Action-Aware Visual-Textual Alignment for Long-Instruction Vision-and-Language Navigation</b>
