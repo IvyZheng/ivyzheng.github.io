@@ -94,7 +94,7 @@ Code is available at <a href = "https://github.com/visee-sdu/LSDO">https://githu
 <b>[17] Action-Aware Visual-Textual Alignment for Long-Instruction Vision-and-Language Navigation</b>
 <a href = "/Attachments/2025-Corr-TOMM-AAVTA.pdf">[pdf]</a><br/>
 Bowen Huang, <b>Yanwei Zheng*</b>, Chuanlin Lan, Dongchen Sui, Xinpeng Zhao, Mengbai Xiao, and Dongxiao Yu<br/>
-ACM Transactions on Multimedia Computing, Communications, and Applications, 2025, 21(9): 1-22<br/>
+<a href="./Citations/p17.html" target="_blank">[cite]</a> ACM Transactions on Multimedia Computing, Communications, and Applications, 2025, 21(9): 1-22<br/>
 Code is available at <a href = "https://github.com/visee-sdu/APAF">https://github.com/visee-sdu/APAF.</a><br/>
 
 <b>[16] Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation</b>
