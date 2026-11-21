@@ -94,13 +94,13 @@ Code is available at <a href = "https://github.com/visee-sdu/LSDO">https://githu
 <b>[17] Action-Aware Visual-Textual Alignment for Long-Instruction Vision-and-Language Navigation</b>
 <a href = "/Attachments/2025-Corr-TOMM-AAVTA.pdf">[pdf]</a><br/>
 Bowen Huang, <b>Yanwei Zheng*</b>, Chuanlin Lan, Dongchen Sui, Xinpeng Zhao, Mengbai Xiao, and Dongxiao Yu<br/>
-<a href="./Citations/p17.html" target="_blank">[cite]</a> ACM Transactions on Multimedia Computing, Communications, and Applications, 2025, 21(9): 1-22<br/>
+<a href="./Citations/p17.html" target="_blank">[cite]</a> ACM Transactions on Multimedia Computing, Communications, and Applications, 2025, 21(9): 270:1-22<br/>
 Code is available at <a href = "https://github.com/visee-sdu/APAF">https://github.com/visee-sdu/APAF.</a><br/>
 
 <b>[16] Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation</b>
 <a href = "/Attachments/2025-Corr-TITS-TSOR.pdf">[pdf]</a><br/>
 Bowen Huang, <b>Yanwei Zheng*</b>, Dongchen Sui, Chuanlin Lan, Xinpeng Zhao, Xiao Zhang, Jingke Meng, Mengbai Xiao, Yifei Zou, and Dongxiao Yu<br/>
-IEEE Transactions on Intelligent Transportation Systems, 2025, (8):1-15<br/>
+<a href="./Citations/p16.html" target="_blank">[cite]</a> IEEE Transactions on Intelligent Transportation Systems, 2025, 26(10): 15631-15645.<br/>
 Code is available at <a href = "https://github.com/visee-sdu/TSOR">https://github.com/visee-sdu/TSOR.</a><br/>
 
 <b>[15] Adaptive Strategy Weighting with Fault Tolerant Localization for Object Navigation</b>
