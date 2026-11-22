@@ -106,7 +106,7 @@ Code is available at <a href = "https://github.com/visee-sdu/TSOR">https://githu
 <b>[15] Adaptive Strategy Weighting with Fault Tolerant Localization for Object Navigation</b>
 <a href = "/Attachments/2025-1-ICME-Adaptive.pdf">[pdf]</a><br/>
 <b>Yanwei Zheng</b>, Shaopu Feng, Bowen Huang, Changrui Li, Xiao Zhang, and Dongxiao Yu*<br/>
-The 26th IEEE International Conference on Multimedia and Expo (ICME 2025), Nantes, France , June 30 to July 4, 2025. <br/>
+<a href="./Citations/p15.html" target="_blank">[cite]</a> The 26th IEEE International Conference on Multimedia and Expo (ICME 2025), Nantes, France , June 30 to July 4, 2025. <br/>
 
 <b>[14] Efficient Strategy Learning by Decoupling Searching and Pathfinding for Object Navigation</b>
 <a href = "/Attachments/2025-1-SMC25-FI.pdf">[pdf]</a><br/>
