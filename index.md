@@ -111,22 +111,22 @@ Code is available at <a href = "https://github.com/visee-sdu/TSOR">https://githu
 <b>[14] Efficient Strategy Learning by Decoupling Searching and Pathfinding for Object Navigation</b>
 <a href = "/Attachments/2025-1-SMC25-FI.pdf">[pdf]</a><br/>
 <b>Yanwei Zheng</b>, Shaopu Feng, Bowen Huang, Chuanlin Lan, Xiao Zhang, and Dongxiao Yu*<br/>
-The 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Vienna, Austria, Oct. 5-8, 2025. <br/>
+<a href="./Citations/p14.html" target="_blank">[cite]</a> The 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Vienna, Austria, Oct. 5-8, 2025. <br/>
 
 <b>[13] A Distributed Abstract MAC Layer for Cooperative Learning on Internet of Vehicles</b>
 <a href = "/Attachments/2024-Coor-DAMAC.pdf">[pdf]</a><br/>
 Yifei Zou, Zuyuan Zhang, Congwei Zhang, <b>Yanwei Zheng*</b>, Dongxiao Yu, and Jiguo Yu<br/>
-IEEE Transactions on Intelligent Transportation Systems, 2025, 25(8): 8972-8983<br/>
+<a href="./Citations/p13.html" target="_blank">[cite]</a> IEEE Transactions on Intelligent Transportation Systems, 2025, 25(8): 8972-8983<br/>
 
 <b>[12] Variational Autoencoder Based Automatic Clustering for Multivariate Time Series Anomaly Detection</b>
 <a href = "/Attachments/2024-Coor-VABAC.pdf">[pdf]</a><br/>
 Yan Li., Hailin Hu, Kun Yang, Gaozhou Wang, Ti Guan, and <b>Yanwei Zheng*</b><br/>
-WASA 2024. Lecture Notes in Computer Science, vol 14999. Springer, Cham<br/>
+<a href="./Citations/p12.html" target="_blank">[cite]</a> WASA 2024. Lecture Notes in Computer Science, vol 14999. Springer, Cham<br/>
 
 <b>[11] Finer-Grained Engagement in Hypergraphs</b>
 <a href = "/Attachments/2023-Corr-ICDE2023-FGE.pdf">[pdf]</a><br/>
 Qi Luo, Dongxiao Yu, Yu Liu, <b>Yanwei Zheng*</b>, Xiuzhen Cheng, and Xuemin Lin<br/>
-International Conference on Data Engineering (ICDE), 2023<br/>
+<a href="./Citations/p11.html" target="_blank">[cite]</a> International Conference on Data Engineering (ICDE), 2023<br/>
 
 <b>[10] Optimized Consensus for Blockchain in Internet-of-Things Networks via Reinforcement Learning</b>
 <a href = "/Attachments/2023-Corr-TST-OptimizedConsensus.pdf">[pdf]</a><br/>
